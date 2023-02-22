@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/VishesHadimani/IC-Lab-4.git/static/css/main.22f80a24.css",
+    "main.js": "/VishesHadimani/IC-Lab-4.git/static/js/main.3c098b2d.js",
+    "static/js/787.fee3d268.chunk.js": "/VishesHadimani/IC-Lab-4.git/static/js/787.fee3d268.chunk.js",
+    "index.html": "/VishesHadimani/IC-Lab-4.git/index.html",
+    "main.22f80a24.css.map": "/VishesHadimani/IC-Lab-4.git/static/css/main.22f80a24.css.map",
+    "main.3c098b2d.js.map": "/VishesHadimani/IC-Lab-4.git/static/js/main.3c098b2d.js.map",
+    "787.fee3d268.chunk.js.map": "/VishesHadimani/IC-Lab-4.git/static/js/787.fee3d268.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22f80a24.css",
+    "static/js/main.3c098b2d.js"
+  ]
+}
